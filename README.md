@@ -31,7 +31,7 @@ This application allows the library management the ability to operate the entire
 Maintain a steady influx of visitors and guests throughout the year, as well as top promote the library’s extensive rang e of services.
 Better safety and security in maintaining data and personal information using automation
 
-**Modules Used:**
+### **Modules Used:**
 
 Tkinter Module: Tkinter is a Python binding to the Tk GUI toolkit. It is the standard Python interface to the Tk GUI toolkit, and is Python's de facto standard GUI. Tkinter is included with standard Linux, Microsoft Windows and Mac OS X installs of Python. The name Tkinter comes from Tk interface.
 
@@ -42,12 +42,12 @@ MySQL Connector Module:  MySQL Connector enables Python programs to access MySQL
 Here, the MySQL. Connector module has been used to allow users to interact with the LDMS database which is present in MySQL through the python front end. 
 
  
-**SCOPE OF THE PROJECT**
+### **SCOPE OF THE PROJECT**
 
 As the technology and the passion of being well read is increasing day by day, the need for a well-organized, computer based library management system has become the need of the society.
 This system helps the admin and the librarian to maintain large data about the users and their daily activity in the library. It should be suitable for maintaining records about the books borrowed, issued and returned. Our Library Management system is the best option for it.
 
-**CONVENTIONAL SYSTEM**
+### **CONVENTIONAL SYSTEM**
 
 In the library management system, if we take the conventional system and compare it with the proposed system, it is far behind. Every work in a conventional system is manual and done on paper and the computer systems do not function efficiently, leading to the need of tedious manual work. 
 Some major drawbacks of the existing conventional system are as follows:
@@ -60,17 +60,17 @@ Some major drawbacks of the existing conventional system are as follows:
 •	Information is not available globally to both clients and employees hence location restriction
 
 
-**PROPOSED SYSTEM**
+### **PROPOSED SYSTEM**
 
 The system that we shall be proposing in this project not only corrects the drawbacks of the existing system, but it also provides a whole slew of new facilitates and opportunities to take advantage of. Data will be fed to the database from input devices. This will be processed (if needed) and stored in a centralized memory and will be accessible to the library staff. Output will be given by the database itself on demand. The software that will be used for managing the database will be MySQL, and the front end will be designed using Python. 
 
-**SOFTWARE REQUIREMENTS:**
+### **SOFTWARE REQUIREMENTS:**
 
 •	Windows OS/Mac OS
 •	Python 3.4 or higher
 •	MySQL 8.0 or higher
 
 
-**An Overview of the Project**
+### **An Overview of the Project**
 
 ![Image](https://github.com/user-attachments/assets/b65db1cd-35d5-4a1c-8963-1058a3030095)
