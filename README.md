@@ -40,6 +40,7 @@ Date Time Module:  In python, date and time are not a data type of their own, bu
 MySQL Connector Module:  MySQL Connector enables Python programs to access MySQL databases, using an API that is compliant with the Python Database API Specification v2.0 (PEP 249). It is written in pure Python and does not have any dependencies except for Python Standard Library.
 
 Here, the MySQL. Connector module has been used to allow users to interact with the LDMS database which is present in MySQL through the python front end. 
+
  
 **SCOPE OF THE PROJECT**
 
