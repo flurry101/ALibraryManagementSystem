@@ -1,5 +1,5 @@
 # LDBMS
-School Group Project
+A Mini-School Group Project
 
 # **Project on Library Management System**
 
