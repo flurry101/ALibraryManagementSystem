@@ -1,14 +1,13 @@
 # LDBMS
 School Group Project
 
-### **Project on Library Management System**
+# **Project on Library Management System**
 
 ### **INTRODUCTION**
 	
 A library management system is software that is designed to manage all the functions of a library. It helps maintain the details of all books, employees, members and the books borrowed by the members.  
 A well-developed database management system makes things very informative and simple for both the readers and the librarians.
 A database which gives an in-depth information books borrowed by each of the readers , and helps to learn their interests. This will also enable the librarians to track the books efficiently, and prevent any loss or damage of books. 
-Note:	The user needs to be allowed to input in the program when asked.
 
 ### **OBJECTIVES OF THE PROJECT**
 
@@ -41,11 +40,9 @@ MySQL Connector Module:  MySQL Connector enables Python programs to access MySQL
 
 Here, the MySQL. Connector module has been used to allow users to interact with the LDMS database which is present in MySQL through the python front end. 
 
- 
 ### **SCOPE OF THE PROJECT**
 
-As the technology and the passion of being well read is increasing day by day, the need for a well-organized, computer based library management system has become the need of the society.
-This system helps the admin and the librarian to maintain large data about the users and their daily activity in the library. It should be suitable for maintaining records about the books borrowed, issued and returned. Our Library Management system is the best option for it.
+As the technology and the passion of being well read is increasing day by day, the need for a well-organized, computer-based library management system has become the need of the society. This system helps the admin and the librarian to maintain large data about the users and their daily activity in the library. It should be suitable for maintaining records about the books **borrowed, issued and returned.** 
 
 ### **CONVENTIONAL SYSTEM**
 
@@ -59,7 +56,6 @@ Some major drawbacks of the existing conventional system are as follows:
 •	Requires more physical work and manpower
 •	Information is not available globally to both clients and employees hence location restriction
 
-
 ### **PROPOSED SYSTEM**
 
 The system that we shall be proposing in this project not only corrects the drawbacks of the existing system, but it also provides a whole slew of new facilitates and opportunities to take advantage of. Data will be fed to the database from input devices. This will be processed (if needed) and stored in a centralized memory and will be accessible to the library staff. Output will be given by the database itself on demand. The software that will be used for managing the database will be MySQL, and the front end will be designed using Python. 
@@ -71,6 +67,11 @@ The system that we shall be proposing in this project not only corrects the draw
 •	MySQL 8.0 or higher
 
 
-### **An Overview of the Project**
+# **An Overview of the Project**
 
 ![Image](https://github.com/user-attachments/assets/b65db1cd-35d5-4a1c-8963-1058a3030095)
+
+### *Disclaimer:
+**In no manner**, I claim "complete" ownership of this project. 
+Apart from the efforts by me and my two other teammates (S and H), the success of any project depends largely on the encouragement and guidelines of many others. 
+Hence, I take this opportunity to express my gratitude to the people (parents & teachers) who have been instrumental and contributed in bringing this project up to this level, as well as in assisting with the successful completion of this project.
