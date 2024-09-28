@@ -73,5 +73,8 @@ The system that we shall be proposing in this project not only corrects the draw
 
 ### *Disclaimer:
 **In no manner**, I claim "complete" ownership of this project. 
-Apart from the efforts by me and my two other teammates (S and H), the success of any project depends largely on the encouragement and guidelines of many others. 
+Apart from the efforts by me and my two other teammates (say, S and H), the success of any project depends largely on the encouragement and guidelines of many others. 
 Hence, I take this opportunity to express my gratitude to the people (parents & teachers) who have been instrumental and contributed in bringing this project up to this level, as well as in assisting with the successful completion of this project.
+
+#Lastly...
+Thanks for checking out this one.
