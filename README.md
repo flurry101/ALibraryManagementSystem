@@ -38,23 +38,24 @@ Here, the MySQL. Connector module has been used to allow users to interact with 
 # Some screenshots...
 
 
-![Image](https://github.com/flurry101/Library-DBMS/blob/main/Picture2.png)
-![Image](https://github.com/flurry101/Library-DBMS/blob/main/Picture3.png)
-![Image](https://github.com/flurry101/Library-DBMS/blob/main/Picture4.png)
-![Image](https://github.com/flurry101/Library-DBMS/blob/main/Picture5.png)
-![Image](https://github.com/flurry101/Library-DBMS/blob/main/Picture6.png)
-![Image](https://github.com/flurry101/Library-DBMS/blob/main/Picture8.png)
-![Image](https://github.com/flurry101/Library-DBMS/blob/main/Picture9.png)
-![Image](https://github.com/flurry101/Library-DBMS/blob/main/Picture10.png)
-![Image](https://github.com/flurry101/Library-DBMS/blob/main/Picture11.png)
-![Image](https://github.com/flurry101/Library-DBMS/blob/main/Picture12.png)
-![Image](https://github.com/flurry101/Library-DBMS/blob/main/Picture13.png)
-![Image](https://github.com/flurry101/Library-DBMS/blob/main/Picture14.png)
-![Image](https://github.com/flurry101/Library-DBMS/blob/main/Picture15.png)
-![Image](https://github.com/flurry101/Library-DBMS/blob/main/Picture16.png)
-![Image](https://github.com/flurry101/Library-DBMS/blob/main/Picture17.png)
-![Image](https://github.com/flurry101/Library-DBMS/blob/main/Picture18.png)
-![Image](https://github.com/flurry101/Library-DBMS/blob/main/Picture19.png)
+![Image](https://github.com/flurry101/Library-DBMS/blob/main/images/Picture2.png)
+![Image](https://github.com/flurry101/Library-DBMS/blob/main/images/Picture3.png)
+![Image](https://github.com/flurry101/Library-DBMS/blob/main/images/Picture4.png)
+![Image](https://github.com/flurry101/Library-DBMS/blob/main/images/Picture5.png)
+![Image](https://github.com/flurry101/Library-DBMS/blob/main/images/Picture6.png)
+![Image](https://github.com/flurry101/Library-DBMS/blob/main/images/Picture8.png)
+![Image](https://github.com/flurry101/Library-DBMS/blob/main/images/Picture9.png)
+![Image](https://github.com/flurry101/Library-DBMS/blob/main/images/Picture10.png)
+![Image](https://github.com/flurry101/Library-DBMS/blob/main/images/Picture11.png)
+![Image](https://github.com/flurry101/Library-DBMS/blob/main/images/Picture12.png)
+![Image](https://github.com/flurry101/Library-DBMS/blob/main/images/Picture13.png)
+![Image](https://github.com/flurry101/Library-DBMS/blob/main/images/Picture14.png)
+![Image](https://github.com/flurry101/Library-DBMS/blob/main/images/Picture15.png)
+![Image](https://github.com/flurry101/Library-DBMS/blob/main/images/Picture16.png)
+![Image](https://github.com/flurry101/Library-DBMS/blob/main/images/Picture17.png)
+![Image](https://github.com/flurry101/Library-DBMS/blob/main/images/Picture18.png)
+![Image](https://github.com/flurry101/Library-DBMS/blob/main/images/Picture19.png)
+
 
 # ABOUT THE PROJECT
 
@@ -64,8 +65,6 @@ The objective of this project is to let students apply their programming knowled
 •	Write programs utilizing modern software tools.
 •	Apply object-oriented programming principles effectively when developing small to medium sized projects.
 •	Write effective procedural code to solve small to medium sized problems.
-•	Students will demonstrate a breadth of knowledge in computer science, as exemplified in the areas of systems, theory and software development.
-•	Students will demonstrate ability to conduct research or applied Computer Science project, requiring writing and presentation skills which exemplify scholarly style in computer science.
 
 ### **PROJECT DESCRIPTION:**
 
