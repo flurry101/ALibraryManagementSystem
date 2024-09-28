@@ -4,7 +4,7 @@ A Mini-School Group Project
 # **Project on Library Management System**
 A library management system using Python-SQL connectivity.
 
-### **INTRODUCTION**
+# **INTRODUCTION**
 	
 A library management system is software that is designed to manage all the functions of a library. It helps maintain the details of all books, employees, members and the books borrowed by the members.  
 A well-developed database management system makes things very informative and simple for both the readers and the librarians.
@@ -19,6 +19,44 @@ A database which gives an in-depth information books borrowed by each of the rea
 ### Default credentials:
 Username: `root`
 Password: `pswd@123`
+
+
+### **Modules Used:**
+
+`Tkinter Module`: Tkinter is a Python binding to the Tk GUI toolkit. It is the standard Python interface to the Tk GUI toolkit, and is Python's de facto standard GUI. Tkinter is included with standard Linux, Microsoft Windows and Mac OS X installs of Python. The name Tkinter comes from Tk interface.
+
+`Date Time Module`:  In python, date and time are not a data type of their own, but a module named datetime can be imported to work with date and time. This module supplies classes to work with date and time, these classes provide a number of functions to deal with dates, times and time intervals. 
+
+`MySQL Connector Module`:  MySQL Connector enables Python programs to access MySQL databases, using an API that is compliant with the Python Database API Specification v2.0 (PEP 249). It is written in pure Python and does not have any dependencies except for Python Standard Library.
+
+Here, the MySQL. Connector module has been used to allow users to interact with the LDMS database which is present in MySQL through the python front end. 
+
+# **An Overview of the Project**
+
+![Image](https://github.com/user-attachments/assets/b65db1cd-35d5-4a1c-8963-1058a3030095)
+
+# Some screenshots...
+
+![Image](https://github.com/flurry101/Library-DBMS/blob/main/Picture2.png)
+![Image](https://github.com/flurry101/Library-DBMS/blob/main/Picture3.png)
+![Image](https://github.com/flurry101/Library-DBMS/blob/main/Picture4.png)
+![Image](https://github.com/flurry101/Library-DBMS/blob/main/Picture5.png)
+![Image](https://github.com/flurry101/Library-DBMS/blob/main/Picture6.png)
+![Image](https://github.com/flurry101/Library-DBMS/blob/main/Picture7.png)
+![Image](https://github.com/flurry101/Library-DBMS/blob/main/Picture8.png)
+![Image](https://github.com/flurry101/Library-DBMS/blob/main/Picture9.png)
+![Image](https://github.com/flurry101/Library-DBMS/blob/main/Picture10.png)
+![Image](https://github.com/flurry101/Library-DBMS/blob/main/Picture11.png)
+![Image](https://github.com/flurry101/Library-DBMS/blob/main/Picture12.png)
+![Image](https://github.com/flurry101/Library-DBMS/blob/main/Picture13.png)
+![Image](https://github.com/flurry101/Library-DBMS/blob/main/Picture14.png)
+![Image](https://github.com/flurry101/Library-DBMS/blob/main/Picture15.png)
+![Image](https://github.com/flurry101/Library-DBMS/blob/main/Picture16.png)
+![Image](https://github.com/flurry101/Library-DBMS/blob/main/Picture17.png)
+![Image](https://github.com/flurry101/Library-DBMS/blob/main/Picture18.png)
+![Image](https://github.com/flurry101/Library-DBMS/blob/main/Picture19.png)
+
+# ABOUT THE PROJECT
 
 ### **OBJECTIVES OF THE PROJECT**
 
@@ -40,23 +78,6 @@ The readers are provided with accurate details regarding their borrowing history
 This application allows the library management the ability to operate the entire system from a single online interface, giving them more power and flexibility.
 Maintain a steady influx of visitors and guests throughout the year, as well as top promote the library’s extensive rang e of services.
 Better safety and security in maintaining data and personal information using automation
-
-### **Modules Used:**
-
-`Tkinter Module`: Tkinter is a Python binding to the Tk GUI toolkit. It is the standard Python interface to the Tk GUI toolkit, and is Python's de facto standard GUI. Tkinter is included with standard Linux, Microsoft Windows and Mac OS X installs of Python. The name Tkinter comes from Tk interface.
-
-`Date Time Module`:  In python, date and time are not a data type of their own, but a module named datetime can be imported to work with date and time. This module supplies classes to work with date and time, these classes provide a number of functions to deal with dates, times and time intervals. 
-
-`MySQL Connector Module`:  MySQL Connector enables Python programs to access MySQL databases, using an API that is compliant with the Python Database API Specification v2.0 (PEP 249). It is written in pure Python and does not have any dependencies except for Python Standard Library.
-
-Here, the MySQL. Connector module has been used to allow users to interact with the LDMS database which is present in MySQL through the python front end. 
-
-# **An Overview of the Project**
-
-![Image](https://github.com/user-attachments/assets/b65db1cd-35d5-4a1c-8963-1058a3030095)
-
-# Some screenshots...
-
 
 ### **SCOPE OF THE PROJECT**
 
@@ -81,7 +102,8 @@ The system that we shall be proposing in this project not only corrects the draw
 
 # *Disclaimer:
 **In no manner**, I claim "complete" ownership of this project. 
-### Acknowledgments:
+
+### *Acknowledgments:*
 Apart from the efforts by me and my two other teammates (say, S and H), the success of any project depends largely on the encouragement and guidelines of many others. 
 Hence, I take this opportunity to express my gratitude to the people (parents & teachers) who have been instrumental and contributed in bringing this project up to this level, as well as in assisting with the successful completion of this project.
 
