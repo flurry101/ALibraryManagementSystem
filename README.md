@@ -37,12 +37,12 @@ Here, the MySQL. Connector module has been used to allow users to interact with 
 
 # Some screenshots...
 
+
 ![Image](https://github.com/flurry101/Library-DBMS/blob/main/Picture2.png)
 ![Image](https://github.com/flurry101/Library-DBMS/blob/main/Picture3.png)
 ![Image](https://github.com/flurry101/Library-DBMS/blob/main/Picture4.png)
 ![Image](https://github.com/flurry101/Library-DBMS/blob/main/Picture5.png)
 ![Image](https://github.com/flurry101/Library-DBMS/blob/main/Picture6.png)
-![Image](https://github.com/flurry101/Library-DBMS/blob/main/Picture7.png)
 ![Image](https://github.com/flurry101/Library-DBMS/blob/main/Picture8.png)
 ![Image](https://github.com/flurry101/Library-DBMS/blob/main/Picture9.png)
 ![Image](https://github.com/flurry101/Library-DBMS/blob/main/Picture10.png)
