@@ -14,7 +14,7 @@ import datetime as dt
 #Non-members: 200X
 #where x belongs to 0 to 9
 
-conn = sql.connect(host='localhost',user='root',password='Nike@sql23')
+conn = sql.connect(host='localhost',user='root',password='pswd@123')
 curr=conn.cursor()
 
 def create():
