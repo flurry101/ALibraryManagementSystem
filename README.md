@@ -1,8 +1,11 @@
+<!DOCTYPE html>
 # LDBMS
 A Mini-School Group Project
 
 # **Project on Library Management System**
 A library management system using Python-SQL connectivity.
+
+<i> Funnily enough, we didn't realize that this was a small implementation of CRUD operations!</i>
 
 # **INTRODUCTION**
 	
