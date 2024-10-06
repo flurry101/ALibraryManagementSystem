@@ -36,7 +36,7 @@ Here, the MySQL. Connector module has been used to allow users to interact with 
 
 # **An Overview of the Project**
 
-![Image](https://github.com/user-attachments/assets/b65db1cd-35d5-4a1c-8963-1058a3030095)
+![Image](https://github.com/flurry101/A_Library_Management_System/blob/main/images/358847851-b65db1cd-35d5-4a1c-8963-1058a3030095.png)
 
 # Some screenshots...
 
