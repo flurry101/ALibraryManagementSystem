@@ -17,7 +17,8 @@ A database which gives an in-depth information books borrowed by each of the rea
 
 •	Windows OS/Mac OS
 •	Python 3.4 or higher
-•	MySQL 8.0 or higher
+•	MySQL 8.0 or higher 
+`pip install mysql-connector`
 
 ### Default credentials:
 Username: `root`
