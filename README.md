@@ -78,7 +78,7 @@ Each accommodation available units and all the unit facilities are available at 
 The registration for a user is done online making it more efficient and convenient for the registration process.
 The readers are provided with accurate details regarding their borrowing history.
 This application allows the library management the ability to operate the entire system from a single online interface, giving them more power and flexibility.
-Maintain a steady influx of visitors and guests throughout the year, as well as top promote the library’s extensive rang e of services.
+Maintain a steady influx of visitors and guests throughout the year, as well as top promote the library’s extensive range of services.
 Better safety and security in maintaining data and personal information using automation
 
 ### **SCOPE OF THE PROJECT**
@@ -88,7 +88,7 @@ As the technology and the passion of being well read is increasing day by day, t
 ### **Conventional system**
 
 In the library management system, if we take the conventional system and compare it with the proposed system, it is far behind. Every work in a conventional system is manual and done on paper and the computer systems do not function efficiently, leading to the need of tedious manual work. 
-Some major drawbacks of the existing conventional system are as follows:
+Some major drawbacks of the existing conventional system are as follows: <br>
 •	Requires a lot of paperwork and the process takes time. <br>
 •	Everything is done on paper, which is highly prone to damage and requires a good amount of security and space to store. <br>
 •	Requires buying of goods more frequently as compared to the online system. <br>
