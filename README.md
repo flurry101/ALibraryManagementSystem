@@ -38,8 +38,9 @@ Here, the MySQL Connector module has been used to allow users to interact with t
 
 ![Image](https://github.com/flurry101/A_Library_Management_System/blob/main/images/358847851-b65db1cd-35d5-4a1c-8963-1058a3030095.png)
 
-# Some screenshots...
-
+<details>
+<summary> Some screenshots...</summary>
+<br>
 
 ![Image](https://github.com/flurry101/Library-DBMS/blob/main/images/Picture2.png)
 ![Image](https://github.com/flurry101/Library-DBMS/blob/main/images/Picture3.png)
@@ -55,9 +56,7 @@ Here, the MySQL Connector module has been used to allow users to interact with t
 ![Image](https://github.com/flurry101/Library-DBMS/blob/main/images/Picture14.png)
 ![Image](https://github.com/flurry101/Library-DBMS/blob/main/images/Picture15.png)
 ![Image](https://github.com/flurry101/Library-DBMS/blob/main/images/Picture16.png)
-![Image](https://github.com/flurry101/Library-DBMS/blob/main/images/Picture17.png)
-![Image](https://github.com/flurry101/Library-DBMS/blob/main/images/Picture18.png)
-![Image](https://github.com/flurry101/Library-DBMS/blob/main/images/Picture19.png)
+</details>
 
 
 # ABOUT THE PROJECT
@@ -83,7 +82,20 @@ Better safety and security in maintaining data and personal information using au
 
 ### **SCOPE OF THE PROJECT**
 
-As the technology and the passion of being well read is increasing day by day, the need for a well-organized, computer-based library management system has become the need of the society. This system helps the admin and the librarian to maintain large data about the users and their daily activity in the library. It should be suitable for maintaining records about the books **borrowed, issued and returned.** 
+As the technology and the passion of being well read is increasing day by day, the need for a well-organized, computer-based library management system has become the need of the society. 
+- This system helps the admin and the librarian to maintain large data about the users and their daily activity in the library.
+- It should be suitable for maintaining records about the books **borrowed, issued and returned.** 
+- It has data validation in place
+  1) Input validation mechanisms are specified
+  2) Error handling procedures are also mentioned 
+<details>
+<summary>Some screenshots</summary>
+	
+![Image](https://github.com/flurry101/Library-DBMS/blob/main/images/Picture17.png)
+![Image](https://github.com/flurry101/Library-DBMS/blob/main/images/Picture18.png)
+![Image](https://github.com/flurry101/Library-DBMS/blob/main/images/Picture19.png)
+<br>
+</details>
 
 ### **Conventional system**
 
@@ -101,11 +113,21 @@ Some major drawbacks of the existing conventional system are as follows: <br>
 
 The system that we shall be proposing in this project not only corrects the drawbacks of the existing system, but it also provides a whole slew of new facilitates and opportunities to take advantage of. Data will be fed to the database from input devices. This will be processed (if needed) and stored in a centralized memory and will be accessible to the library staff. Output will be given by the database itself on demand. The software that will be used for managing the database will be MySQL, and the front end will be designed using Python. 
 
+
+## Potential Limitations / Problem Areas
+- Security:
+  1) Current authentication system status ~unclear~ non-existent
+- Scalability:
+  1) Database performance with large datasets not addressed
+  2) Concurrent user handling not specified
+- Backup/Recovery
+  1) Data backup procedures not mentioned
+  2) System Recovery protocols not defined
+
 # Possible Future Ideas for Upgrades
 • The system would also collect user credentials (username, role (employee / member / non-member) and password) and use them to login into the LDBMS system, which allows them to customize the interface according to their role in the LDBMS, and prevent access of others' data ensuring data privacy at the least. <br>
 • The system would introduce a drop-down menu, for genres, book titles, and authors, to make the system more seamless. <br>
 • For members and non-members, there would be an interest-based recommendation system, based on the data collected of their book borrowals. For example, if a user#3 has borrowed more books in the genre of "mystery", than in any other system, then, the recommendation system would generate 6-10 books in the same genre.
-
 
 # Disclaimer:
 **In no manner**, I claim "complete" ownership of this project. 
