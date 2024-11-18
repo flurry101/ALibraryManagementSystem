@@ -3,7 +3,7 @@
 A Mini-School Group Project
 
 # **Project on Library Management System**
-This project involves the development of a Library Management System that leverages Python and SQL for database management. The system is designed to handle basic library functions such as adding, updating, deleting, and retrieving book and user information—essentially implementing CRUD operations.
+This project involves the development of a Library Management System that leverages Python and SQL for database management. The system is designed to handle basic library functions such as adding, updating, deleting, and retrieving book and user information—along with book transactions, due dates, and penalties
 
 > Note: It turns out our approach to building this system is a simple yet effective implementation of the CRUD paradigm!
 
