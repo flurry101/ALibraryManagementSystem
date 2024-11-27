@@ -132,7 +132,7 @@ As the technology and the passion of being well read is increasing day by day, t
 
 • **User-Authentication System:** The system would also collect user credentials (username, role (employee / member / non-member) and password) and use them to login into the LDBMS system, which allows them to customize the interface according to their role in the LDBMS, and prevent access of others' data ensuring data privacy at the least. <br>
 • **Enhanced UI Features:** The system would introduce a drop-down menu, for genres, book titles, and authors, to make the system more seamless. <br>
-•  **Recommendation System:** For members and non-members, there would be an interest-based recommendation system, based on the data collected of their book borrowals. For example, if a user#3 has borrowed more books in the genre of "mystery", than in any other system, then, the recommendation system would generate 6-10 books in the same genre.
+•  **Recommendation System:** For members and non-members, there would be an interest-based recommendation system, based on the data collected of their book borrowals. For example, if a user#3 has borrowed more books in the genre of "mystery", than in any other system, then, the recommendation system would generate 6-10 books in the same genre. <br>
 •  **Generation of reports for administrators:** For employees, there would be a way to generate statistics on a particular user.
 
 <details>
